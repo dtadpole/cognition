@@ -6,7 +6,7 @@
 
 成文：2026年10月
 
-## 一、最终确定的三段表达
+## 一、三段表达
 
 > Our thinking sets the limits of what we can achieve.
 >
