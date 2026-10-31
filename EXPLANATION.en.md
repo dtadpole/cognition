@@ -30,7 +30,7 @@ A horizon has both scope and limits. Someone may understand one domain deeply wh
 
 Awareness concerns what enters attention and consideration. It includes noticing relevant facts, recognizing relationships, and being aware of missing information or uncertainty.
 
-Awareness of one's own understanding is one aspect of metacognition, which concerns knowledge about cognition and the monitoring of cognitive activity.[15]
+Awareness of one's own understanding is one aspect of metacognition, which concerns knowledge about cognition and the monitoring of cognitive activity. It includes checking whether we can explain or apply an idea, recognizing uncertainty, and using questions or self-tests to assess what is known.[15]
 
 For example, noticing a missed deadline is different from recognizing the dependencies, incentives, and changing requirements that may have contributed to it. Greater awareness brings more of the relevant situation into consideration.
 
@@ -58,27 +58,27 @@ Different tools make different features visible:
 
 Having several approaches makes it possible to examine a situation in more than one way.
 
-Research on physics problem solving found that experts organized problems around underlying principles, while novices relied more on surface features.[16]
-
-Scott Page's account of a cognitive repertoire includes information, knowledge, heuristics, representations, and mental models.[4] The usefulness of such a collection depends on understanding the tools' assumptions and limits as well as knowing that they exist.
+Scott Page's account of a cognitive repertoire includes information, knowledge, heuristics, representations, and mental models.[4] Its usefulness depends on understanding each tool's principles, assumptions, and limits, and recognizing the kinds of problems to which it applies.
 
 ### 3.4 Selecting, integrating, and revising frameworks
 
-A framework organizes what matters, how observations are interpreted, and which relationships are considered. Using frameworks well requires three capacities:
+A framework organizes what matters, how observations are interpreted, and which relationships are considered. It shapes the representation of a problem and the approaches considered for solving it.
+
+Research on physics problem solving found that experts organized problems around underlying principles, while novices relied more on surface features.[16]
+
+Using frameworks well requires three capacities:
 
 | Capacity | What it involves |
 | --- | --- |
-| Select | Choose a framework whose assumptions and scope fit the problem |
+| Select | Choose a framework whose principles, assumptions, and scope fit the problem |
 | Integrate | Connect useful perspectives while handling their agreements, differences, and tradeoffs |
-| Revise | Adjust assumptions or methods when evidence calls them into question |
+| Revise | Reconsider the assumptions and relationships that organize the problem when evidence challenges them |
 
 A framework's applicability and a person's flexibility are distinct. A framework may fit a narrow range of situations, while a person can learn when to use it and when another approach is needed.
 
 Cognitive flexibility concerns adjusting cognitive sets or strategies as circumstances change.[5] Integrative complexity distinguishes recognizing different dimensions from recognizing connections among them.[6] These capacities help a thinker move between perspectives and connect them coherently.
 
-Revision in light of evidence involves judging what should change and what remains supported. It calls for learning from outcomes, checking assumptions, and correcting explanations when necessary.
-
-Argyris's distinction between single-loop and double-loop learning separates correcting actions within existing governing assumptions from examining and changing those assumptions.[17]
+A plan can be adjusted within existing assumptions. Revising a framework involves examining the assumptions and relationships that determine how the problem is understood. Argyris's distinction between single-loop and double-loop learning separates correcting action within governing assumptions from examining and changing those assumptions.[17]
 
 ## 4. Thinking, action, and learning
 
@@ -92,7 +92,7 @@ The four capacities shape our cognitive horizon and, through it, how we perceive
 
 Perception supplies evidence for evaluation. Evaluation weighs evidence and alternatives against goals and constraints and guides action. Action produces new evidence. What can be carried out also depends on available resources and circumstances.
 
-Learning from feedback can bring overlooked factors into view, improve reasoning, expand the intellectual toolkit, and prompt the selection, integration, or revision of frameworks. These changes can reshape the cognitive horizon and influence subsequent perception, evaluation, and action.
+Learning from feedback involves checking results against expectations and using the evidence to decide what should be retained or changed.[15][17] It can bring overlooked factors into view, improve reasoning, expand the intellectual toolkit, and prompt framework revision. These changes can reshape the cognitive horizon and influence subsequent perception, evaluation, and action.
 
 Adult-development and leadership literature distinguish two forms of development:[7][8]
 
@@ -109,12 +109,12 @@ For agents, the four capacities shape what can be perceived, evaluated, and acte
 
 | Concept | Role in an agent | Supporting tools and mechanisms |
 | --- | --- | --- |
-| Level of awareness | Bring relevant context, relationships, and information gaps into consideration | Search, retrieval, environment observations, memory recall |
+| Level of awareness | Notice relevant context and relationships, and assess gaps in information or understanding | Search, retrieval, environment observations, memory recall, self-tests |
 | Sophistication of reasoning | Form and test explanations, compare plans, and check assumptions | Planning, code execution, simulation, tests and verifiers |
 | Breadth of the intellectual toolkit | Draw on a range of concepts, models, methods, and reusable skills | Knowledge bases, skill libraries, analytical models and tools |
 | Select frameworks | Choose a problem representation and analytical approach that fit the task | Problem reformulation, method selection, planning templates |
 | Integrate frameworks | Connect perspectives while reconciling their assumptions and differences | Evidence synthesis, comparison of alternative analyses, shared working memory |
-| Revise frameworks | Update assumptions and methods in light of results | Reflection, execution feedback, tests, memory updates |
+| Revise frameworks | Reconsider the assumptions and representations guiding the task | Reflection, execution feedback, tests, memory updates |
 
 These mappings overlap. Memory can help an agent recover context, access a learned method, or retain a correction. Its contribution to the cognitive horizon depends on how effectively the agent recognizes relevant information, chooses suitable methods, and uses evidence to revise its approach.
 
@@ -122,22 +122,22 @@ ReAct couples reasoning with actions that obtain information.[12] Voyager mainta
 
 ## 6. An illustrative example
 
-Consider a person or agent investigating a project that repeatedly misses delivery dates. The initial explanation is that people need to work harder. Suppose the task records show that much of the elapsed time is spent waiting for approval.
+Consider a person or agent investigating a project that repeatedly misses delivery dates. The initial explanation is that people need to work harder. Suppose the records show that all tasks, regardless of risk, require approval from the same review team, and much of the elapsed time is spent waiting for that approval.
 
 | Capacity | What it involves in this example |
 | --- | --- |
-| Level of awareness | Notice dependencies, approval rules, reviewer availability, and gaps in the records. |
+| Level of awareness | Notice approval rules, task risk, reviewer availability, and gaps in the evidence supporting the initial explanation. |
 | Sophistication of reasoning | Compare workload, changing requirements, and approval delays as explanations. Use timestamps to distinguish working time from waiting time. |
 | Breadth of the intellectual toolkit | Draw on process mapping, capacity analysis, and risk analysis to examine workflow, reviewer availability, and approval requirements from different perspectives. |
-| Select frameworks | Use process mapping to locate where work waits and capacity analysis to examine whether reviewer availability can meet demand. |
-| Integrate frameworks | Connect mandatory centralized review with limited reviewer capacity to explain why work accumulates. |
-| Revise frameworks | Revise the assumption that delivery mainly depends on individual effort when the evidence points to a shared review bottleneck. |
+| Select frameworks | Use process and capacity analysis to investigate waiting, and risk analysis to assess where centralized review is needed. |
+| Integrate frameworks | Connect review requirements, reviewer capacity, and task risk to explain the bottleneck and assess which approvals may be delegated. |
+| Revise frameworks | Question the assumption that every task needs the same centralized approval, and test review requirements based on risk. |
 
 The broader cognitive horizon brings changes to approval rules, delegation, and reviewer capacity into consideration. These become options the person or agent can understand and assess.
 
 Perceiving brings the queue and its consequences into view. Evaluating compares the options against time, cost, and quality requirements. Acting tests a defined change, such as delegating approval for a set of low-risk tasks.
 
-The pilot's waiting times, delivery times, and rework rates provide feedback for reassessing the explanation and the method. Learning means using those results to improve later decisions. The practical gain is a broader set of credible ways to improve delivery, together with a way to test which ones work.
+The pilot's waiting times, delivery times, and rework rates provide feedback on both delivery and quality. The results can support or challenge the revised assumptions and help determine where delegation is appropriate. The practical gain is a broader set of credible ways to improve delivery, together with a way to test which ones work.
 
 ## Appendix A: Key terms
 
