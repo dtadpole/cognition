@@ -46,7 +46,15 @@ Research on cognitive sophistication considers both cognitive abilities and thin
 
 An intellectual toolkit contains the concepts, models, frameworks, methods, and heuristics available for thinking about a problem. Breadth concerns the variety and coverage of these tools.
 
-Different tools make different features visible. A process model may reveal a bottleneck; an incentive model may explain behavior; a probabilistic model may clarify uncertainty. Having several approaches makes it possible to examine a situation in more than one way.
+Different tools make different features visible:
+
+| Tool or perspective | What it helps examine |
+| --- | --- |
+| Process model | Workflow and bottlenecks |
+| Incentive model | How incentives shape behavior |
+| Probabilistic model | Uncertainty and the likelihood of outcomes |
+
+Having several approaches makes it possible to examine a situation in more than one way.
 
 Scott Page's account of a cognitive repertoire includes information, knowledge, heuristics, representations, and mental models.[4] The usefulness of such a collection depends on understanding the tools' assumptions and limits as well as knowing that they exist.
 
@@ -80,13 +88,31 @@ Perception supplies evidence for evaluation. Evaluation weighs evidence and alte
 
 Learning from feedback can bring overlooked factors into view, improve reasoning, expand the intellectual toolkit, and prompt the selection, integration, or revision of frameworks. These changes can reshape the cognitive horizon and influence subsequent perception, evaluation, and action.
 
-Learning can add knowledge and skills or develop more complex ways of organizing and interpreting experience. Adult-development and leadership literature often distinguish these as horizontal and vertical development.[7][8] Both can extend a cognitive horizon, although the four capacities need not develop at the same rate.
+Adult-development and leadership literature distinguish two forms of development:[7][8]
+
+| Form of development | What develops |
+| --- | --- |
+| Horizontal development | Additional knowledge, skills, and methods |
+| Vertical development | More complex ways of organizing and interpreting experience |
+
+Both can extend a cognitive horizon, although the four capacities need not develop at the same rate.
 
 ## 5. Humans and agents
 
-For an agent, the four capacities concern the information it brings into consideration, how it reasons, the knowledge and methods it can draw on, and how it selects, integrates, and revises frameworks. Together, these shape which aspects of a task it can perceive, which alternatives it can evaluate, and which actions it can formulate and carry out.
+For agents, the four capacities shape what can be perceived, evaluated, and acted on. Tools and system mechanisms can support these capacities:
 
-An agent may have access to relevant information yet miss its significance, or possess several analytical methods yet repeatedly choose an unsuitable one. Its cognitive horizon therefore depends on both what is available and how effectively it uses it. Feedback can reshape that horizon when it changes the knowledge, methods, or assumptions the agent uses in later decisions.
+| Concept | Role in an agent | Supporting tools and mechanisms |
+| --- | --- | --- |
+| Level of awareness | Bring relevant context, relationships, and information gaps into consideration | Search, retrieval, environment observations, memory recall |
+| Sophistication of reasoning | Form and test explanations, compare plans, and check assumptions | Planning, code execution, simulation, tests and verifiers |
+| Breadth of the intellectual toolkit | Draw on a range of concepts, models, methods, and reusable skills | Knowledge bases, skill libraries, analytical models and tools |
+| Select frameworks | Choose a problem representation and analytical approach that fit the task | Problem reformulation, method selection, planning templates |
+| Integrate frameworks | Connect perspectives while reconciling their assumptions and differences | Evidence synthesis, comparison of alternative analyses, shared working memory |
+| Revise frameworks | Update assumptions and methods in light of results | Reflection, execution feedback, tests, memory updates |
+
+These mappings overlap. Memory can help an agent recover context, access a learned method, or retain a correction. Its contribution to the cognitive horizon depends on how effectively the agent recognizes relevant information, chooses suitable methods, and uses evidence to revise its approach.
+
+ReAct couples reasoning with actions that obtain information.[12] Voyager maintains a reusable skill library and uses execution feedback to improve programs.[13] Reflexion stores reflections on feedback in memory for later attempts.[14]
 
 ## 6. An illustrative example
 
@@ -143,3 +169,9 @@ The pilot's waiting times, delivery times, and rework rates provide feedback for
 [10] Stanford Encyclopedia of Philosophy (2003; revised 2022). [Hans-Georg Gadamer](https://plato.stanford.edu/entries/gadamer/), especially section 3.2. Scholarly overview of understanding, horizons, and their transformation.
 
 [11] Raemon (2019). [Noticing Frame Differences](https://www.lesswrong.com/posts/f886riNJcArmpFahm/noticing-frame-differences). Discussion of different ways of seeing, thinking, and communicating.
+
+[12] Shunyu Yao et al. (2022; revised 2023). [ReAct: Synergizing Reasoning and Acting in Language Models](https://arxiv.org/abs/2210.03629). arXiv:2210.03629. Interleaved reasoning, action, and information gathering.
+
+[13] Guanzhi Wang et al. (2023). [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291). arXiv:2305.16291. Reusable skills, execution feedback, and program improvement.
+
+[14] Noah Shinn et al. (2023). [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366). arXiv:2303.11366. Reflection on feedback and memory for subsequent attempts.
