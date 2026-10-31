@@ -2,9 +2,9 @@
 
 [README](README.md) · [中文](EXPLANATION.zh-CN.md)
 
-The framework, its wording, its intellectual background, and its references
+The framework, its wording, intellectual background, and references
 
-Prepared: October 2026
+Documented: October 2026
 
 ## 1. The statement
 
