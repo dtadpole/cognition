@@ -30,6 +30,8 @@
 
 Level of awareness 关注哪些事物能够进入注意和考虑范围，包括察觉相关事实、认识因素之间的关系，以及意识到信息缺口或不确定性。
 
+对自身理解状况的觉察，是元认知（metacognition）的一个方面。元认知关注关于认知的知识，以及对认知活动的监测。[15]
+
 例如，注意到项目延期，与认识到依赖关系、激励和需求变化可能如何影响进度，是不同层次的觉察。更充分的觉察让情境中更多相关因素进入考虑。
 
 个人成长讨论中的 level of awareness，也用于讨论人们对处境和可能性的不同认识。[1] 在实际分析中，觉察需要联系具体情境来理解。
@@ -56,6 +58,8 @@ Intellectual toolkit 包括可以用于理解问题的概念、模型、框架�
 
 拥有多种方法，就有条件从不同角度考察同一情境。
 
+关于物理问题求解的研究发现，专家倾向于依据深层原理组织问题，新手则更依赖表面特征。[16]
+
 Scott Page 对 cognitive repertoire 的描述涵盖信息、知识、启发式、表征和心智模型。[4] 这类工具集合的价值，取决于对工具的前提、用途和局限的理解，以及实际使用的能力。
 
 ### 4. 选择、整合和修正框架
@@ -73,6 +77,8 @@ Scott Page 对 cognitive repertoire 的描述涵盖信息、知识、启发式�
 Cognitive flexibility 关注根据情境变化调整认知定势或策略的能力。[5] Integrative complexity 则区分识别不同维度与理解这些维度之间联系的能力。[6] 它们分别有助于解释视角转换与视角整合。
 
 根据证据修正框架，需要判断哪些内容应当改变，哪些内容仍然得到支持。它要求从结果中学习、检查假设，并在必要时纠正解释。
+
+Argyris 区分了单环学习（single-loop learning）与双环学习（double-loop learning）：前者在支配行动的基本假设下调整行动，后者则会审视并改变这些假设。[17]
 
 ## 四、思维、行动与学习
 
@@ -175,3 +181,9 @@ ReAct 将推理与获取信息的行动相结合。[12] Voyager 维护可复用�
 [13] Guanzhi Wang et al. (2023)。[Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291)。arXiv:2305.16291。可复用技能、执行反馈与程序改进。
 
 [14] Noah Shinn et al. (2023)。[Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)。arXiv:2303.11366。对反馈的反思，以及供后续尝试使用的记忆。
+
+[15] John H. Flavell (1979)。[Metacognition and Cognitive Monitoring: A New Area of Cognitive-Developmental Inquiry](https://doi.org/10.1037/0003-066X.34.10.906)。American Psychologist, 34(10), 906-911。关于认知的知识，以及对自身理解状况的监测。
+
+[16] Michelene T. H. Chi, Paul J. Feltovich, & Robert Glaser (1981)。[Categorization and Representation of Physics Problems by Experts and Novices](https://doi.org/10.1207/s15516709cog0502_2)。Cognitive Science, 5(2), 121-152。专家与新手在物理问题表征上的差异。
+
+[17] Chris Argyris (1976)。[Single-Loop and Double-Loop Models in Research on Decision Making](https://doi.org/10.2307/2391848)。Administrative Science Quarterly, 21(3), 363-375。学习、反馈与对支配行动的基本假设的修正。

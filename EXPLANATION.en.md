@@ -30,6 +30,8 @@ A horizon has both scope and limits. Someone may understand one domain deeply wh
 
 Awareness concerns what enters attention and consideration. It includes noticing relevant facts, recognizing relationships, and being aware of missing information or uncertainty.
 
+Awareness of one's own understanding is one aspect of metacognition, which concerns knowledge about cognition and the monitoring of cognitive activity.[15]
+
 For example, noticing a missed deadline is different from recognizing the dependencies, incentives, and changing requirements that may have contributed to it. Greater awareness brings more of the relevant situation into consideration.
 
 Level of awareness appears in personal development discussions as a way to discuss differences in how people recognize their circumstances and possibilities.[1] In practice, awareness should be considered in relation to a particular situation rather than treated as one universal ranking of people.
@@ -56,6 +58,8 @@ Different tools make different features visible:
 
 Having several approaches makes it possible to examine a situation in more than one way.
 
+Research on physics problem solving found that experts organized problems around underlying principles, while novices relied more on surface features.[16]
+
 Scott Page's account of a cognitive repertoire includes information, knowledge, heuristics, representations, and mental models.[4] The usefulness of such a collection depends on understanding the tools' assumptions and limits as well as knowing that they exist.
 
 ### 3.4 Selecting, integrating, and revising frameworks
@@ -73,6 +77,8 @@ A framework's applicability and a person's flexibility are distinct. A framework
 Cognitive flexibility concerns adjusting cognitive sets or strategies as circumstances change.[5] Integrative complexity distinguishes recognizing different dimensions from recognizing connections among them.[6] These capacities help a thinker move between perspectives and connect them coherently.
 
 Revision in light of evidence involves judging what should change and what remains supported. It calls for learning from outcomes, checking assumptions, and correcting explanations when necessary.
+
+Argyris's distinction between single-loop and double-loop learning separates correcting actions within existing governing assumptions from examining and changing those assumptions.[17]
 
 ## 4. Thinking, action, and learning
 
@@ -175,3 +181,9 @@ The pilot's waiting times, delivery times, and rework rates provide feedback for
 [13] Guanzhi Wang et al. (2023). [Voyager: An Open-Ended Embodied Agent with Large Language Models](https://arxiv.org/abs/2305.16291). arXiv:2305.16291. Reusable skills, execution feedback, and program improvement.
 
 [14] Noah Shinn et al. (2023). [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366). arXiv:2303.11366. Reflection on feedback and memory for subsequent attempts.
+
+[15] John H. Flavell (1979). [Metacognition and Cognitive Monitoring: A New Area of Cognitive-Developmental Inquiry](https://doi.org/10.1037/0003-066X.34.10.906). American Psychologist, 34(10), 906-911. Knowledge about cognition and monitoring one's understanding.
+
+[16] Michelene T. H. Chi, Paul J. Feltovich, & Robert Glaser (1981). [Categorization and Representation of Physics Problems by Experts and Novices](https://doi.org/10.1207/s15516709cog0502_2). Cognitive Science, 5(2), 121-152. Differences in how experts and novices represent physics problems.
+
+[17] Chris Argyris (1976). [Single-Loop and Double-Loop Models in Research on Decision Making](https://doi.org/10.2307/2391848). Administrative Science Quarterly, 21(3), 363-375. Learning, feedback, and revision of governing assumptions.
