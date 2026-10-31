@@ -13,8 +13,8 @@ Prepared: October 2026
 > By “thinking,” we mean our level of awareness, the sophistication of our reasoning, the breadth of our intellectual toolkit, and our ability to select, integrate, and revise frameworks in light of evidence. Together, these shape our cognitive horizon, defining how we perceive, evaluate, and act.
 >
 > The same applies to agents.
->
-> *D.Tadpole*
+
+*D.Tadpole*
 
 ## 2. What the statement is trying to express
 
@@ -184,8 +184,8 @@ The opening section contains the canonical our version. The corresponding your v
 > By “thinking,” I mean your level of awareness, the sophistication of your reasoning, the breadth of your intellectual toolkit, and your ability to select, integrate, and revise frameworks in light of evidence. Together, these shape your cognitive horizon, defining how you perceive, evaluate, and act.
 >
 > The same applies to agents.
->
-> *D.Tadpole*
+
+*D.Tadpole*
 
 ## Appendix A: Vocabulary and scope
 
