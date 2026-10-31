@@ -84,31 +84,28 @@ Learning can add knowledge and skills or develop more complex ways of organizing
 
 ## 5. Humans and agents
 
-For people, these capacities draw on knowledge, experience, attention, reasoning, and interaction with others. For an agent, they can be described in terms of the information and methods available to the system and how effectively it uses them.
+For an agent, the four capacities concern the information it brings into consideration, how it reasons, the knowledge and methods it can draw on, and how it selects, integrates, and revises frameworks. Together, these shape which aspects of a task it can perceive, which alternatives it can evaluate, and which actions it can formulate and carry out.
 
-| Capacity | A functional interpretation for an agent |
-| --- | --- |
-| Awareness | Access relevant observations and recognize missing information, uncertainty, or task constraints |
-| Reasoning | Decompose problems, compare hypotheses, check conclusions, and assess consequences |
-| Intellectual toolkit | Draw on knowledge, memory, models, skills, tools, and methods |
-| Framework use | Choose an approach, combine information, and revise plans or methods from evidence |
-| Perceive, evaluate, and act | Interpret inputs, assess choices, execute actions, and use feedback |
-
-Awareness has a functional meaning in this description: access to relevant information and recognition of uncertainty. An agent's horizon also depends on its task and system context. Relevant memory, observations, tools, and feedback can change what it is able to consider and assess.
-
-A larger toolkit does not automatically produce better judgment. Effective operation also depends on selecting suitable methods, interpreting results, and making corrections. Adding tools and improving the ability to use them are separate design questions.
+An agent may have access to relevant information yet miss its significance, or possess several analytical methods yet repeatedly choose an unsuitable one. Its cognitive horizon therefore depends on both what is available and how effectively it uses it. Feedback can reshape that horizon when it changes the knowledge, methods, or assumptions the agent uses in later decisions.
 
 ## 6. An illustrative example
 
-Consider a project that repeatedly misses delivery dates.
+Consider a person or agent investigating a project that repeatedly misses delivery dates. The initial explanation is that people need to work harder. Suppose the task records show that much of the elapsed time is spent waiting for approval.
 
-A narrow view may attribute every delay to individual effort. Awareness brings other possible factors into consideration, such as unclear requirements, shared dependencies, approval delays, or changes in scope.
+| Capacity | What it involves in this example |
+| --- | --- |
+| Level of awareness | Notice dependencies, approval rules, reviewer availability, and gaps in the records. |
+| Sophistication of reasoning | Compare workload, changing requirements, and approval delays as explanations. Use timestamps to distinguish working time from waiting time. |
+| Breadth of the intellectual toolkit | Draw on process mapping, capacity analysis, and risk analysis to examine workflow, reviewer availability, and approval requirements from different perspectives. |
+| Select frameworks | Use process mapping to locate where work waits and capacity analysis to examine whether reviewer availability can meet demand. |
+| Integrate frameworks | Connect mandatory centralized review with limited reviewer capacity to explain why work accumulates. |
+| Revise frameworks | Revise the assumption that delivery mainly depends on individual effort when the evidence points to a shared review bottleneck. |
 
-Reasoning helps distinguish these explanations and examine their interactions. The intellectual toolkit provides ways to analyze them, such as process mapping, capacity analysis, and incentive analysis. Framework selection determines which approaches fit the evidence; integration connects useful findings.
+The broader cognitive horizon brings changes to approval rules, delegation, and reviewer capacity into consideration. These become options the person or agent can understand and assess.
 
-Action might involve testing a change to one handoff or approval step and observing the result. That feedback can improve the explanation and guide the next decision.
+Perceiving brings the queue and its consequences into view. Evaluating compares the options against time, cost, and quality requirements. Acting tests a defined change, such as delegating approval for a set of low-risk tasks.
 
-An agent assisting with the same project faces similar functional questions: Does it have the relevant records? Can it compare explanations? Can it choose an appropriate method and check whether an intervention helps? The example connects the cognitive horizon to practical capability.
+The pilot's waiting times, delivery times, and rework rates provide feedback for reassessing the explanation and the method. Learning means using those results to improve later decisions. The practical gain is a broader set of credible ways to improve delivery, together with a way to test which ones work.
 
 ## Appendix A: Key terms
 
