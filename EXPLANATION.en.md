@@ -66,9 +66,9 @@ Cognitive flexibility concerns adjusting cognitive sets or strategies as circums
 
 Revision in light of evidence involves judging what should change and what remains supported. It calls for learning from outcomes, checking assumptions, and correcting explanations when necessary.
 
-## 4. Perceive, evaluate, and act
+## 4. Thinking, action, and learning
 
-The framework connects thinking to three practical functions:
+The four capacities shape our cognitive horizon and, through it, how we perceive, evaluate, and act:
 
 | Function | Central question |
 | --- | --- |
@@ -76,28 +76,13 @@ The framework connects thinking to three practical functions:
 | Evaluate | How should evidence, alternatives, uncertainty, and tradeoffs be assessed? |
 | Act | What choice should be made, and how should it be carried out? |
 
-These functions interact. Perception affects the evidence available for evaluation. Evaluation guides action. The results of action provide new information that can change an explanation, a method, or a plan.
+Perception supplies evidence for evaluation. Evaluation weighs evidence and alternatives against goals and constraints and guides action. Action produces new evidence. What can be carried out also depends on available resources and circumstances.
 
-Evaluation includes assessing evidence and weighing alternatives in relation to goals and constraints. Action also depends on resources and circumstances. Thinking shapes how these conditions are understood and how choices are made within them.
+Learning from feedback can bring overlooked factors into view, improve reasoning, expand the intellectual toolkit, and prompt the selection, integration, or revision of frameworks. These changes can reshape the cognitive horizon and influence subsequent perception, evaluation, and action.
 
-## 5. Learning and a changing horizon
+Learning can add knowledge and skills or develop more complex ways of organizing and interpreting experience. Adult-development and leadership literature often distinguish these as horizontal and vertical development.[7][8] Both can extend a cognitive horizon, although the four capacities need not develop at the same rate.
 
-A cognitive horizon can develop in several ways:
-
-| Capacity | A form of development |
-| --- | --- |
-| Awareness | Notice previously overlooked factors and recognize important gaps |
-| Reasoning | Improve explanations, test assumptions, and handle uncertainty more carefully |
-| Intellectual toolkit | Learn useful concepts, models, and methods |
-| Framework use | Improve the selection, integration, and revision of approaches |
-
-Adult-development and leadership literature distinguish adding knowledge and skills from developing more complex ways of organizing experience. These are often discussed as horizontal and vertical development.[7][8]
-
-The distinction helps explain why learning more facts and changing how those facts are interpreted are different forms of growth. Both can extend a cognitive horizon. Experience and feedback can also reveal that a familiar framework applies less broadly than expected.
-
-These capacities need not develop at the same rate. Someone can gain knowledge without improving judgment, or reason carefully with a limited set of approaches. Development concerns the relationship among the capacities as well as each capacity individually.
-
-## 6. Humans and agents
+## 5. Humans and agents
 
 For people, these capacities draw on knowledge, experience, attention, reasoning, and interaction with others. For an agent, they can be described in terms of the information and methods available to the system and how effectively it uses them.
 
@@ -113,7 +98,7 @@ Awareness has a functional meaning in this description: access to relevant infor
 
 A larger toolkit does not automatically produce better judgment. Effective operation also depends on selecting suitable methods, interpreting results, and making corrections. Adding tools and improving the ability to use them are separate design questions.
 
-## 7. An illustrative example
+## 6. An illustrative example
 
 Consider a project that repeatedly misses delivery dates.
 
