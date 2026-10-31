@@ -32,7 +32,7 @@ Awareness concerns what enters attention and consideration. It includes noticing
 
 For example, noticing a missed deadline is different from recognizing the dependencies, incentives, and changing requirements that may have contributed to it. Greater awareness brings more of the relevant situation into consideration.
 
-Level of awareness appears in personal development writing as a way to discuss differences in how people recognize their circumstances and possibilities.[1] In practice, awareness should be considered in relation to a particular situation rather than treated as one universal ranking of people.
+Level of awareness appears in personal development discussions as a way to discuss differences in how people recognize their circumstances and possibilities.[1] In practice, awareness should be considered in relation to a particular situation rather than treated as one universal ranking of people.
 
 ### 3.2 Sophistication of reasoning
 
@@ -140,9 +140,9 @@ An agent assisting with the same project faces similar functional questions: Doe
 
 ## Appendix B: References
 
-[1] Proctor Gallagher Institute. [How to Expand Your Awareness](https://proctorgallagherinstitute.com/how-to-expand-your-awareness/). Personal development discussion of awareness and life outcomes.
+[1] Bob Proctor (2015). [How to Expand Your Awareness](https://www.youtube.com/watch?v=7LSjcLVwuQk). Proctor Gallagher Institute, video. Personal development discussion of awareness and life outcomes.
 
-[2] Stephen R. Covey / FranklinCovey. [Paradigms](https://www.franklincovey.co.uk/blog/2023/02/24/paradigms/). Discussion of paradigms as mental maps shaped by experience.
+[2] Stephen R. Covey / FranklinCovey (2023). [Paradigms](https://www.franklincovey.co.uk/blog/2023/02/24/paradigms/). Discussion of paradigms as mental maps shaped by experience.
 
 [3] Toplak, M. E., West, R. F., & Stanovich, K. E. (2014). [Rational thinking and cognitive sophistication: Development, cognitive abilities, and thinking dispositions](https://pubmed.ncbi.nlm.nih.gov/24188038/). Developmental Psychology, 50(4), 1037-1048. DOI: 10.1037/a0034910.
 
@@ -150,14 +150,14 @@ An agent assisting with the same project faces similar functional questions: Doe
 
 [5] Frontiers in Psychology (2018). [Cognitive Control and Flexibility in the Context of Stress and Depressive Symptoms: The Cognitive Control and Flexibility Questionnaire](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02219/full). DOI: 10.3389/fpsyg.2018.02219.
 
-[6] Peter Suedfeld, University of British Columbia. [Suedfeld's Integrative Complexity Research](https://www2.psych.ubc.ca/~psuedfeld/CXY.html). Introduction to differentiation and integration.
+[6] Peter Suedfeld, University of British Columbia (updated 2004). [Suedfeld's Integrative Complexity Research](https://www2.psych.ubc.ca/~psuedfeld/CXY.html). Introduction to differentiation and integration.
 
-[7] Robert Kegan & Lisa Lahey. [Leadership, Counseling, and Mental Complexity: A Background Memo for World Economic Forum Fellows](https://26225792.fs1.hubspotusercontent-eu1.net/hubfs/26225792/Kegan_Lahey_Memo%20Mental_Complexity.pdf). Adult development and meaning-making.
+[7] Robert Kegan & Lisa Laskow Lahey (2009). [Immunity to Change: How to Overcome It and Unlock the Potential in Yourself and Your Organization](https://store.hbr.org/product/immunity-to-change-how-to-overcome-it-and-unlock-the-potential-in-yourself-and-your-organization/1736). Harvard Business Press. Adult development, mental complexity, and the assumptions that constrain change.
 
 [8] Center for Creative Leadership (2025). [Vertical vs. Horizontal Development: Why Your Leaders Need Both To Succeed](https://www.ccl.org/articles/leading-effectively-articles/developing-talent-youre-probably-missing-vertical-development/). Based on research by Nick Petrie.
 
-[9] Warwick Business School. [How will the 4th Industrial Revolution affect business?](https://www.wbs.ac.uk/news/how-will-the-4th-industrial-revolution-affect-business/). Discussion of cognitive horizons in people and systems.
+[9] Warwick Business School (2018). [How will the 4th Industrial Revolution affect business?](https://www.wbs.ac.uk/news/how-will-the-4th-industrial-revolution-affect-business/). Discussion of cognitive horizons in people and systems.
 
-[10] Stanford Encyclopedia of Philosophy. [Hans-Georg Gadamer](https://plato.stanford.edu/entries/gadamer/), especially section 3.2. Scholarly overview of understanding, horizons, and their transformation.
+[10] Stanford Encyclopedia of Philosophy (2003; revised 2022). [Hans-Georg Gadamer](https://plato.stanford.edu/entries/gadamer/), especially section 3.2. Scholarly overview of understanding, horizons, and their transformation.
 
 [11] Raemon (2019). [Noticing Frame Differences](https://www.lesswrong.com/posts/f886riNJcArmpFahm/noticing-frame-differences). Discussion of different ways of seeing, thinking, and communicating.

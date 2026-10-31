@@ -32,7 +32,7 @@ Level of awareness 关注哪些事物能够进入注意和考虑范围，包括�
 
 例如，注意到项目延期，与认识到依赖关系、激励和需求变化可能如何影响进度，是不同层次的觉察。更充分的觉察让情境中更多相关因素进入考虑。
 
-个人成长写作中的 level of awareness，也用于讨论人们对处境和可能性的不同认识。[1] 在实际分析中，觉察需要联系具体情境来理解。
+个人成长讨论中的 level of awareness，也用于讨论人们对处境和可能性的不同认识。[1] 在实际分析中，觉察需要联系具体情境来理解。
 
 ### 2. 推理的精细程度
 
@@ -140,9 +140,9 @@ Cognitive flexibility 关注根据情境变化调整认知定势或策略的能�
 
 ## Appendix B：参考资料
 
-[1] Proctor Gallagher Institute。[How to Expand Your Awareness](https://proctorgallagherinstitute.com/how-to-expand-your-awareness/)。个人成长语境下对觉察与人生结果的讨论。
+[1] Bob Proctor (2015)。[How to Expand Your Awareness](https://www.youtube.com/watch?v=7LSjcLVwuQk)。Proctor Gallagher Institute 发布的视频。个人成长语境下对觉察与人生结果的讨论。
 
-[2] Stephen R. Covey / FranklinCovey。[Paradigms](https://www.franklincovey.co.uk/blog/2023/02/24/paradigms/)。讨论由经验形成的认知地图。
+[2] Stephen R. Covey / FranklinCovey (2023)。[Paradigms](https://www.franklincovey.co.uk/blog/2023/02/24/paradigms/)。讨论由经验形成的认知地图。
 
 [3] Toplak, M. E., West, R. F., & Stanovich, K. E. (2014)。[Rational thinking and cognitive sophistication: Development, cognitive abilities, and thinking dispositions](https://pubmed.ncbi.nlm.nih.gov/24188038/)。Developmental Psychology, 50(4), 1037-1048。DOI: 10.1037/a0034910。
 
@@ -150,14 +150,14 @@ Cognitive flexibility 关注根据情境变化调整认知定势或策略的能�
 
 [5] Frontiers in Psychology (2018)。[Cognitive Control and Flexibility in the Context of Stress and Depressive Symptoms: The Cognitive Control and Flexibility Questionnaire](https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2018.02219/full)。DOI: 10.3389/fpsyg.2018.02219。
 
-[6] Peter Suedfeld, University of British Columbia。[Suedfeld's Integrative Complexity Research](https://www2.psych.ubc.ca/~psuedfeld/CXY.html)。介绍 differentiation 与 integration。
+[6] Peter Suedfeld, University of British Columbia（2004年更新）。[Suedfeld's Integrative Complexity Research](https://www2.psych.ubc.ca/~psuedfeld/CXY.html)。介绍 differentiation 与 integration。
 
-[7] Robert Kegan & Lisa Lahey。[Leadership, Counseling, and Mental Complexity: A Background Memo for World Economic Forum Fellows](https://26225792.fs1.hubspotusercontent-eu1.net/hubfs/26225792/Kegan_Lahey_Memo%20Mental_Complexity.pdf)。成人发展与意义建构。
+[7] Robert Kegan & Lisa Laskow Lahey (2009)。[Immunity to Change: How to Overcome It and Unlock the Potential in Yourself and Your Organization](https://store.hbr.org/product/immunity-to-change-how-to-overcome-it-and-unlock-the-potential-in-yourself-and-your-organization/1736)。Harvard Business Press。成人发展、心智复杂性，以及制约改变的假设。
 
 [8] Center for Creative Leadership (2025)。[Vertical vs. Horizontal Development: Why Your Leaders Need Both To Succeed](https://www.ccl.org/articles/leading-effectively-articles/developing-talent-youre-probably-missing-vertical-development/)。基于 Nick Petrie 的研究。
 
-[9] Warwick Business School。[How will the 4th Industrial Revolution affect business?](https://www.wbs.ac.uk/news/how-will-the-4th-industrial-revolution-affect-business/)。讨论人与系统的 cognitive horizon。
+[9] Warwick Business School (2018)。[How will the 4th Industrial Revolution affect business?](https://www.wbs.ac.uk/news/how-will-the-4th-industrial-revolution-affect-business/)。讨论人与系统的 cognitive horizon。
 
-[10] Stanford Encyclopedia of Philosophy。[Hans-Georg Gadamer](https://plato.stanford.edu/entries/gadamer/)，重点参看第3.2节。关于理解、视域及其变化的学术综述。
+[10] Stanford Encyclopedia of Philosophy（2003年初版，2022年修订）。[Hans-Georg Gadamer](https://plato.stanford.edu/entries/gadamer/)，重点参看第3.2节。关于理解、视域及其变化的学术综述。
 
 [11] Raemon (2019)。[Noticing Frame Differences](https://www.lesswrong.com/posts/f886riNJcArmpFahm/noticing-frame-differences)。讨论不同的观察、思考和交流框架。
