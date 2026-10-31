@@ -8,11 +8,13 @@
 
 ## 一、最终确定的三段表达
 
-Our thinking sets the limits of what we can achieve.
-
-By “thinking,” we mean our level of awareness, the sophistication of our reasoning, the breadth of our intellectual toolkit, and our ability to select, integrate, and revise frameworks in light of evidence. Together, these shape our cognitive horizon, defining how we perceive, evaluate, and act.
-
-The same applies to agents.
+> Our thinking sets the limits of what we can achieve.
+>
+> By “thinking,” we mean our level of awareness, the sophistication of our reasoning, the breadth of our intellectual toolkit, and our ability to select, integrate, and revise frameworks in light of evidence. Together, these shape our cognitive horizon, defining how we perceive, evaluate, and act.
+>
+> The same applies to agents.
+>
+> *D.Tadpole*
 
 ## 二、我们究竟在表达什么
 
@@ -171,11 +173,13 @@ Your thinking 更直接地面向一个人或读者，适合个人激励、写给
 
 前面的三段是已确定的 Our 版本。若转成 Your 版本，相应文字为：
 
-Your thinking sets the limits of what you can achieve.
-
-By “thinking,” I mean your level of awareness, the sophistication of your reasoning, the breadth of your intellectual toolkit, and your ability to select, integrate, and revise frameworks in light of evidence. Together, these shape your cognitive horizon, defining how you perceive, evaluate, and act.
-
-The same applies to agents.
+> Your thinking sets the limits of what you can achieve.
+>
+> By “thinking,” I mean your level of awareness, the sophistication of your reasoning, the breadth of your intellectual toolkit, and your ability to select, integrate, and revise frameworks in light of evidence. Together, these shape your cognitive horizon, defining how you perceive, evaluate, and act.
+>
+> The same applies to agents.
+>
+> *D.Tadpole*
 
 ## Appendix A：核心词汇与使用范围
 

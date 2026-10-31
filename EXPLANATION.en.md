@@ -8,11 +8,13 @@ Prepared: October 2026
 
 ## 1. The statement
 
-Our thinking sets the limits of what we can achieve.
-
-By “thinking,” we mean our level of awareness, the sophistication of our reasoning, the breadth of our intellectual toolkit, and our ability to select, integrate, and revise frameworks in light of evidence. Together, these shape our cognitive horizon, defining how we perceive, evaluate, and act.
-
-The same applies to agents.
+> Our thinking sets the limits of what we can achieve.
+>
+> By “thinking,” we mean our level of awareness, the sophistication of our reasoning, the breadth of our intellectual toolkit, and our ability to select, integrate, and revise frameworks in light of evidence. Together, these shape our cognitive horizon, defining how we perceive, evaluate, and act.
+>
+> The same applies to agents.
+>
+> *D.Tadpole*
 
 ## 2. What the statement is trying to express
 
@@ -177,11 +179,13 @@ Your thinking addresses a person or reader directly. It can suit personal encour
 
 The opening section contains the canonical our version. The corresponding your version is:
 
-Your thinking sets the limits of what you can achieve.
-
-By “thinking,” I mean your level of awareness, the sophistication of your reasoning, the breadth of your intellectual toolkit, and your ability to select, integrate, and revise frameworks in light of evidence. Together, these shape your cognitive horizon, defining how you perceive, evaluate, and act.
-
-The same applies to agents.
+> Your thinking sets the limits of what you can achieve.
+>
+> By “thinking,” I mean your level of awareness, the sophistication of your reasoning, the breadth of your intellectual toolkit, and your ability to select, integrate, and revise frameworks in light of evidence. Together, these shape your cognitive horizon, defining how you perceive, evaluate, and act.
+>
+> The same applies to agents.
+>
+> *D.Tadpole*
 
 ## Appendix A: Vocabulary and scope
 
