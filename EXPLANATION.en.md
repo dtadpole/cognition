@@ -2,7 +2,7 @@
 
 [README](README.md) · [中文](EXPLANATION.zh-CN.md)
 
-The framework, its wording, intellectual background, and references
+The framework, its key concepts, intellectual background, and references
 
 Compiled: October 2026
 

@@ -2,7 +2,7 @@
 
 [README](README.md) · [English](EXPLANATION.en.md)
 
-框架、措辞、思想背景与参考资料
+框架、核心概念、思想背景与参考资料
 
 整理于：2026年10月
 
