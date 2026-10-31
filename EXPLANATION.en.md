@@ -14,8 +14,6 @@ By “thinking,” we mean our level of awareness, the sophistication of our rea
 
 The same applies to agents.
 
-This is the synthesis adopted by this repository, rather than a quotation from an existing author. It draws on concepts from several English-language traditions to offer a working framework for understanding cognition and action in people and agents. The explanation develops that framework; the appendices identify the sources, their relevance, and the limits of the comparisons.
-
 ## 2. What the statement is trying to express
 
 The starting point is a cluster of expressions found in Chinese discussions of personal growth and business:
