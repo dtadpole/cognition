@@ -125,21 +125,6 @@ Action might involve testing a change to one handoff or approval step and observ
 
 An agent assisting with the same project faces similar functional questions: Does it have the relevant records? Can it compare explanations? Can it choose an appropriate method and check whether an intervention helps? The example connects the cognitive horizon to practical capability.
 
-## 8. Related intellectual perspectives
-
-Several established perspectives help examine different aspects of the framework:
-
-| Perspective | Central concern | Relationship to the framework |
-| --- | --- | --- |
-| Paradigms and frames | Assumptions and perspectives organize how a situation is understood | Helps examine how frameworks influence perception and interpretation [2][11] |
-| Cognitive sophistication | Abilities and dispositions involved in reasoning | Helps distinguish reasoning quality from knowledge quantity [3] |
-| Cognitive repertoires | The collection and diversity of available thinking tools | Helps describe the breadth of the intellectual toolkit [4] |
-| Cognitive flexibility and integrative complexity | Changing strategies and connecting different perspectives | Helps explain adaptation and integration [5][6] |
-| Adult mental development | Changes in how experience is organized and understood | Helps examine development beyond acquiring additional facts or skills [7][8] |
-| Horizons of understanding | Understanding has a scope shaped by experience and context | Helps examine cognitive reach, limits, and change [9][10] |
-
-These perspectives address different questions. Breadth, depth, flexibility, and integration are related without being interchangeable. Their distinctions make it possible to describe specific strengths and limits more precisely.
-
 ## Appendix A: Key terms
 
 | Term | Meaning |
