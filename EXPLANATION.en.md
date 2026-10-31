@@ -4,7 +4,7 @@
 
 The framework, its wording, intellectual background, and references
 
-Documented: October 2026
+Compiled: October 2026
 
 ## 1. The statement
 
