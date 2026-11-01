@@ -1,6 +1,6 @@
 # 思维与认知边界
 
-[README](README.md) · [English](EXPLANATION.en.md)
+[README](README.md) · [English](FRAMEWORK.en.md)
 
 框架、核心概念、思想背景与参考资料
 

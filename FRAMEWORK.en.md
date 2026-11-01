@@ -1,6 +1,6 @@
 # Thinking and Cognitive Horizons
 
-[README](README.md) · [中文](EXPLANATION.zh-CN.md)
+[README](README.md) · [中文](FRAMEWORK.zh-CN.md)
 
 The framework, its key concepts, intellectual background, and references
 

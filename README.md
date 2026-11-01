@@ -6,5 +6,5 @@
 
 *D.Tadpole*
 
-[English explanation](EXPLANATION.en.md) · [中文说明](EXPLANATION.zh-CN.md)
+[English](FRAMEWORK.en.md) · [中文](FRAMEWORK.zh-CN.md)
 
