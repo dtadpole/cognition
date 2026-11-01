@@ -34,8 +34,6 @@ Level of awareness 关注哪些事物能够进入注意和考虑范围，包括�
 
 例如，注意到项目延期，与认识到依赖关系、激励和需求变化可能如何影响进度，是不同层次的觉察。更充分的觉察让情境中更多相关因素进入考虑。
 
-个人成长讨论中的 level of awareness，也用于讨论人们对处境和可能性的不同认识。[1] 在实际分析中，觉察需要联系具体情境来理解。
-
 ### 2. 推理的精细程度
 
 推理把观察联系到解释、评估和选择。Sophistication of reasoning 包括识别假设、比较解释、分析关系、处理取舍，以及评估不确定性的能力。
@@ -94,7 +92,7 @@ Cognitive flexibility 关注根据情境变化调整认知定势或策略的能�
 
 从反馈中学习，需要对照预期检查结果，并依据证据判断哪些内容应当保留或改变。[15][17] 这可以让原先遗漏的因素进入视野、改善推理、拓展思想工具库，并促使框架得到修正。这些变化可以重塑认知边界，进而影响后续的感知、评估和行动。
 
-成人发展与领导力文献区分了两种发展方式：[7][8]
+Kegan 探讨了成人理解经验的方式如何变得更复杂。[1] 成人发展与领导力文献区分了两种发展方式：[7][8]
 
 | 发展方式 | 发展的内容 |
 | --- | --- |
@@ -154,7 +152,7 @@ ReAct 将推理与获取信息的行动相结合。[12] Voyager 维护可复用�
 
 ## Appendix B：参考资料
 
-[1] Bob Proctor。[How to Expand Your Awareness](https://proctorgallagherinstitute.com/how-to-expand-your-awareness/)。Proctor Gallagher Institute。[配套视频（2015年发布）](https://www.youtube.com/watch?v=7LSjcLVwuQk)。个人成长语境下对觉察与人生结果的讨论。
+[1] Robert Kegan (1994)。[In Over Our Heads: The Mental Demands of Modern Life](https://www.jstor.org/stable/j.ctv1pncpfb)。Harvard University Press。成人的心智复杂性与现代生活的要求。
 
 [2] Stephen R. Covey / FranklinCovey (2023)。[Paradigms](https://www.franklincovey.co.uk/blog/2023/02/24/paradigms/)。讨论由经验形成的认知地图。
 
@@ -182,7 +180,7 @@ ReAct 将推理与获取信息的行动相结合。[12] Voyager 维护可复用�
 
 [14] Noah Shinn et al. (2023)。[Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366)。arXiv:2303.11366。对反馈的反思，以及供后续尝试使用的记忆。
 
-[15] John H. Flavell (1979)。[Metacognition and Cognitive Monitoring: A New Area of Cognitive-Developmental Inquiry](https://doi.org/10.1037/0003-066X.34.10.906)。American Psychologist, 34(10), 906-911。关于认知的知识，以及对自身理解状况的监测。
+[15] John H. Flavell (1979)。[Metacognition and Cognitive Monitoring: A New Area of Cognitive-Developmental Inquiry](https://doi.org/10.1037/0003-066X.34.10.906)。American Psychologist, 34(10), 906-911。关于认知的知识，以及对自身理解状况的监测。 [全文（PDF）](https://www.neurodyspaca.org/IMG/pdf/flavell_-_1979_-_metacognition_and_cognitive_monitoring.pdf)。
 
 [16] Michelene T. H. Chi, Paul J. Feltovich, & Robert Glaser (1981)。[Categorization and Representation of Physics Problems by Experts and Novices](https://doi.org/10.1207/s15516709cog0502_2)。Cognitive Science, 5(2), 121-152。专家与新手在物理问题表征上的差异。
 

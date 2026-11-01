@@ -34,8 +34,6 @@ Awareness of one's own understanding is one aspect of metacognition, which conce
 
 For example, noticing a missed deadline is different from recognizing the dependencies, incentives, and changing requirements that may have contributed to it. Greater awareness brings more of the relevant situation into consideration.
 
-Level of awareness appears in personal development discussions as a way to discuss differences in how people recognize their circumstances and possibilities.[1] In practice, awareness should be considered in relation to a particular situation rather than treated as one universal ranking of people.
-
 ### 3.2 Sophistication of reasoning
 
 Reasoning connects observations to explanations, judgments, and choices. Its sophistication involves identifying assumptions, comparing explanations, tracing relationships, handling tradeoffs, and judging uncertainty.
@@ -94,7 +92,7 @@ Perception supplies evidence for evaluation. Evaluation weighs evidence and alte
 
 Learning from feedback involves checking results against expectations and using the evidence to decide what should be retained or changed.[15][17] It can bring overlooked factors into view, improve reasoning, expand the intellectual toolkit, and prompt framework revision. These changes can reshape the cognitive horizon and influence subsequent perception, evaluation, and action.
 
-Adult-development and leadership literature distinguish two forms of development:[7][8]
+Kegan examines how adults develop more complex ways of making sense of experience.[1] Adult-development and leadership literature distinguish two forms of development:[7][8]
 
 | Form of development | What develops |
 | --- | --- |
@@ -154,7 +152,7 @@ The pilot's waiting times, delivery times, and rework rates provide feedback on 
 
 ## Appendix B: References
 
-[1] Bob Proctor. [How to Expand Your Awareness](https://proctorgallagherinstitute.com/how-to-expand-your-awareness/). Proctor Gallagher Institute. [Companion video, published 2015](https://www.youtube.com/watch?v=7LSjcLVwuQk). Personal development discussion of awareness and life outcomes.
+[1] Robert Kegan (1994). [In Over Our Heads: The Mental Demands of Modern Life](https://www.jstor.org/stable/j.ctv1pncpfb). Harvard University Press. Adult mental complexity and the demands of modern life.
 
 [2] Stephen R. Covey / FranklinCovey (2023). [Paradigms](https://www.franklincovey.co.uk/blog/2023/02/24/paradigms/). Discussion of paradigms as mental maps shaped by experience.
 
@@ -182,7 +180,7 @@ The pilot's waiting times, delivery times, and rework rates provide feedback on 
 
 [14] Noah Shinn et al. (2023). [Reflexion: Language Agents with Verbal Reinforcement Learning](https://arxiv.org/abs/2303.11366). arXiv:2303.11366. Reflection on feedback and memory for subsequent attempts.
 
-[15] John H. Flavell (1979). [Metacognition and Cognitive Monitoring: A New Area of Cognitive-Developmental Inquiry](https://doi.org/10.1037/0003-066X.34.10.906). American Psychologist, 34(10), 906-911. Knowledge about cognition and monitoring one's understanding.
+[15] John H. Flavell (1979). [Metacognition and Cognitive Monitoring: A New Area of Cognitive-Developmental Inquiry](https://doi.org/10.1037/0003-066X.34.10.906). American Psychologist, 34(10), 906-911. Knowledge about cognition and monitoring one's understanding. [Full text (PDF)](https://www.neurodyspaca.org/IMG/pdf/flavell_-_1979_-_metacognition_and_cognitive_monitoring.pdf).
 
 [16] Michelene T. H. Chi, Paul J. Feltovich, & Robert Glaser (1981). [Categorization and Representation of Physics Problems by Experts and Novices](https://doi.org/10.1207/s15516709cog0502_2). Cognitive Science, 5(2), 121-152. Differences in how experts and novices represent physics problems.
 
