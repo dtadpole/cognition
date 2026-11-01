@@ -156,7 +156,7 @@ The pilot's waiting times, delivery times, and rework rates provide feedback on 
 
 ## Appendix B: References
 
-<a name="ref-1"></a>**[1]** Malpas, J. (2025). [Hans-Georg Gadamer](https://plato.stanford.edu/archives/fall2025/entries/gadamer/). In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2025 ed.), section 3.2. Scholarly overview of horizons in Gadamer's hermeneutics. Entry first published 2003; substantively revised 2022.
+<a name="ref-1"></a>**[1]** Malpas, J. (2025). [Hans-Georg Gadamer](https://plato.stanford.edu/archives/fall2025/entries/gadamer/). In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2025 ed.). Metaphysics Research Lab, Stanford University. Section 3.2 discusses horizons in Gadamer's hermeneutics. Entry first published 2003; substantively revised 2022.
 
 <a name="ref-2"></a>**[2]** Warwick Business School. (2018). [How will the 4th Industrial Revolution affect business?](https://www.wbs.ac.uk/news/how-will-the-4th-industrial-revolution-affect-business/). Institutional news interview reporting Hovsepian's use of cognitive horizon for human and AI knowledge.
 
@@ -172,7 +172,7 @@ The pilot's waiting times, delivery times, and rework rates provide feedback on 
 
 <a name="ref-8"></a>**[8]** Dajani, D. R., & Uddin, L. Q. (2015). [Demystifying cognitive flexibility: Implications for clinical and developmental neuroscience](https://doi.org/10.1016/j.tins.2015.07.003). *Trends in Neurosciences, 38*(9), 571-578. Review of cognitive flexibility, set shifting, and task switching. [Full text](https://pmc.ncbi.nlm.nih.gov/articles/PMC5414037/).
 
-<a name="ref-9"></a>**[9]** Suedfeld, P. (updated 2004). [Suedfeld's integrative complexity research](https://www2.psych.ubc.ca/~psuedfeld/CXY.html). University of British Columbia. Research overview defining differentiation and integration; the year records the page's stated update.
+<a name="ref-9"></a>**[9]** Suedfeld, P. (2004). [Suedfeld's integrative complexity research](https://www2.psych.ubc.ca/~psuedfeld/CXY.html). University of British Columbia. Research overview defining differentiation and integration; the year records the page's stated update.
 
 <a name="ref-10"></a>**[10]** Argyris, C. (1976). [Single-loop and double-loop models in research on decision making](https://doi.org/10.2307/2391848). *Administrative Science Quarterly, 21*(3), 363-375. Theoretical analysis of learning, feedback, and governing assumptions in organizational decision making.
 
@@ -180,7 +180,7 @@ The pilot's waiting times, delivery times, and rework rates provide feedback on 
 
 <a name="ref-12"></a>**[12]** Center for Creative Leadership. (2025). [Vertical vs. horizontal development: Why your leaders need both to succeed](https://www.ccl.org/articles/leading-effectively-articles/developing-talent-youre-probably-missing-vertical-development/). Institutional explanation of horizontal and vertical leadership development.
 
-<a name="ref-13"></a>**[13]** Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022; revised 2023). [ReAct: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629v3). *arXiv preprint*, 2210.03629v3. Interleaved reasoning, action, and information gathering.
+<a name="ref-13"></a>**[13]** Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2023). [ReAct: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629v3). *arXiv preprint*, 2210.03629v3. Preprint first posted 2022. Interleaved reasoning, action, and information gathering.
 
 <a name="ref-14"></a>**[14]** Wang, G., Xie, Y., Jiang, Y., Mandlekar, A., Xiao, C., Zhu, Y., Fan, L., & Anandkumar, A. (2023). [Voyager: An open-ended embodied agent with large language models](https://arxiv.org/abs/2305.16291v2). *arXiv preprint*, 2305.16291v2. Reusable skills, execution feedback, and program improvement in Minecraft.
 

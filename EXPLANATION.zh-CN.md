@@ -156,7 +156,7 @@ ReAct 将推理与获取信息的行动相结合。 [\[13\]](#ref-13) Voyager �
 
 ## Appendix B：参考资料
 
-<a name="ref-1"></a>**[1]** Malpas, J. (2025). [Hans-Georg Gadamer](https://plato.stanford.edu/archives/fall2025/entries/gadamer/). In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2025 ed.), section 3.2. 关于 Gadamer 诠释学中视域概念的学术综述。条目初版于2003年，2022年实质修订。
+<a name="ref-1"></a>**[1]** Malpas, J. (2025). [Hans-Georg Gadamer](https://plato.stanford.edu/archives/fall2025/entries/gadamer/). In E. N. Zalta & U. Nodelman (Eds.), *The Stanford Encyclopedia of Philosophy* (Fall 2025 ed.). Metaphysics Research Lab, Stanford University. 第3.2节讨论 Gadamer 诠释学中的视域概念。条目初版于2003年，2022年实质修订。
 
 <a name="ref-2"></a>**[2]** Warwick Business School. (2018). [How will the 4th Industrial Revolution affect business?](https://www.wbs.ac.uk/news/how-will-the-4th-industrial-revolution-affect-business/). 机构新闻访谈，记录 Hovsepian 在人与 AI 知识的讨论中对 cognitive horizon 的使用。
 
@@ -172,7 +172,7 @@ ReAct 将推理与获取信息的行动相结合。 [\[13\]](#ref-13) Voyager �
 
 <a name="ref-8"></a>**[8]** Dajani, D. R., & Uddin, L. Q. (2015). [Demystifying cognitive flexibility: Implications for clinical and developmental neuroscience](https://doi.org/10.1016/j.tins.2015.07.003). *Trends in Neurosciences, 38*(9), 571-578. 关于认知灵活性、认知定势转换与任务切换的综述。[全文](https://pmc.ncbi.nlm.nih.gov/articles/PMC5414037/)。
 
-<a name="ref-9"></a>**[9]** Suedfeld, P. (updated 2004). [Suedfeld's integrative complexity research](https://www2.psych.ubc.ca/~psuedfeld/CXY.html). University of British Columbia. 研究概述，界定 differentiation 与 integration；年份为网页标注的更新时间。
+<a name="ref-9"></a>**[9]** Suedfeld, P. (2004). [Suedfeld's integrative complexity research](https://www2.psych.ubc.ca/~psuedfeld/CXY.html). University of British Columbia. 研究概述，界定 differentiation 与 integration；年份为网页标注的更新时间。
 
 <a name="ref-10"></a>**[10]** Argyris, C. (1976). [Single-loop and double-loop models in research on decision making](https://doi.org/10.2307/2391848). *Administrative Science Quarterly, 21*(3), 363-375. 对组织决策中的学习、反馈与支配行动的基本假设进行理论分析。
 
@@ -180,7 +180,7 @@ ReAct 将推理与获取信息的行动相结合。 [\[13\]](#ref-13) Voyager �
 
 <a name="ref-12"></a>**[12]** Center for Creative Leadership. (2025). [Vertical vs. horizontal development: Why your leaders need both to succeed](https://www.ccl.org/articles/leading-effectively-articles/developing-talent-youre-probably-missing-vertical-development/). 机构对横向与纵向领导力发展的解释。
 
-<a name="ref-13"></a>**[13]** Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2022; revised 2023). [ReAct: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629v3). *arXiv preprint*, 2210.03629v3. 推理、行动与信息获取的交替进行。
+<a name="ref-13"></a>**[13]** Yao, S., Zhao, J., Yu, D., Du, N., Shafran, I., Narasimhan, K., & Cao, Y. (2023). [ReAct: Synergizing reasoning and acting in language models](https://arxiv.org/abs/2210.03629v3). *arXiv preprint*, 2210.03629v3. 预印本首次发布于2022年。推理、行动与信息获取的交替进行。
 
 <a name="ref-14"></a>**[14]** Wang, G., Xie, Y., Jiang, Y., Mandlekar, A., Xiao, C., Zhu, Y., Fan, L., & Anandkumar, A. (2023). [Voyager: An open-ended embodied agent with large language models](https://arxiv.org/abs/2305.16291v2). *arXiv preprint*, 2305.16291v2. Minecraft 环境中的可复用技能、执行反馈与程序改进。
 
