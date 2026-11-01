@@ -154,7 +154,7 @@ The pilot's waiting times, delivery times, and rework rates provide feedback on 
 
 ## Appendix B: References
 
-[1] Bob Proctor (2015). [How to Expand Your Awareness](https://www.youtube.com/watch?v=7LSjcLVwuQk). Proctor Gallagher Institute, video. Personal development discussion of awareness and life outcomes.
+[1] Bob Proctor. [How to Expand Your Awareness](https://proctorgallagherinstitute.com/how-to-expand-your-awareness/). Proctor Gallagher Institute. [Companion video, published 2015](https://www.youtube.com/watch?v=7LSjcLVwuQk). Personal development discussion of awareness and life outcomes.
 
 [2] Stephen R. Covey / FranklinCovey (2023). [Paradigms](https://www.franklincovey.co.uk/blog/2023/02/24/paradigms/). Discussion of paradigms as mental maps shaped by experience.
 

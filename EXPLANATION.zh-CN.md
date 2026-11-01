@@ -154,7 +154,7 @@ ReAct 将推理与获取信息的行动相结合。[12] Voyager 维护可复用�
 
 ## Appendix B：参考资料
 
-[1] Bob Proctor (2015)。[How to Expand Your Awareness](https://www.youtube.com/watch?v=7LSjcLVwuQk)。Proctor Gallagher Institute 发布的视频。个人成长语境下对觉察与人生结果的讨论。
+[1] Bob Proctor。[How to Expand Your Awareness](https://proctorgallagherinstitute.com/how-to-expand-your-awareness/)。Proctor Gallagher Institute。[配套视频（2015年发布）](https://www.youtube.com/watch?v=7LSjcLVwuQk)。个人成长语境下对觉察与人生结果的讨论。
 
 [2] Stephen R. Covey / FranklinCovey (2023)。[Paradigms](https://www.franklincovey.co.uk/blog/2023/02/24/paradigms/)。讨论由经验形成的认知地图。
 
