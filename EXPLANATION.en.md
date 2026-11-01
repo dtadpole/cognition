@@ -30,6 +30,8 @@ A horizon has both scope and limits. Someone may understand one domain deeply wh
 
 Awareness concerns what enters attention and consideration. It includes noticing relevant facts, recognizing relationships, and being aware of missing information or uncertainty.
 
+Kegan's account of adult mental complexity offers a related perspective on level of awareness: it examines how ways of organizing and interpreting experience develop.[1]
+
 Awareness of one's own understanding is one aspect of metacognition, which concerns knowledge about cognition and the monitoring of cognitive activity. It includes checking whether we can explain or apply an idea, recognizing uncertainty, and using questions or self-tests to assess what is known.[15]
 
 For example, noticing a missed deadline is different from recognizing the dependencies, incentives, and changing requirements that may have contributed to it. Greater awareness brings more of the relevant situation into consideration.
